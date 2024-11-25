@@ -33,10 +33,15 @@
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-<summary><b>📃 Certificate</b></summary>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![image](https://github.com/chlolive/SG_CSE3081/assets/101798714/b1599e6a-279c-4fa6-afce-28dfe3f7841f)
-
-![직무부트캠프 수료증_1](https://github.com/chlolive/SG_CSE3081/assets/101798714/b0dfe73b-9ea6-4dc9-a708-f7a5ac054379)
+<details>
+  <summary><b>📃 Certificate</b></summary>
+  <div markdown="1">
+    <ul>
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+      <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+      <img src="https://github.com/chlolive/SG_CSE3081/assets/101798714/b1599e6a-279c-4fa6-afce-28dfe3f7841f">
+      <img src="https://github.com/chlolive/SG_CSE3081/assets/101798714/b0dfe73b-9ea6-4dc9-a708-f7a5ac054379">
+    </ul>
+  </div>
+</details>
